@@ -1,2 +1,2 @@
-# java_oop
-Some of my basic exercises from java oop.
+# Java oop exercises 
+Some of my java learning process.
