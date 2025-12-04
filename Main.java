@@ -15,6 +15,7 @@ class Car {
                 "; Brand: " + this.brand +
                 "; Color: " + this.color
         );
+        
     }
 }
 class CarFactory {
